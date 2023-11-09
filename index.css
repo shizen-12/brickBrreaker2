@@ -1,0 +1,7 @@
+#canvas{
+    /* background: #ebebeb; */
+    display : block;
+    margin: 3vh auto auto auto;
+    padding: 0 auto;
+    max-height: 95vh;
+}
